@@ -1,7 +1,6 @@
 import requests
 import random
 import threading
-import time
 
 url = "https://platform-creativespace.com/tpao-land-twlfth/api.php"
 charset = [
