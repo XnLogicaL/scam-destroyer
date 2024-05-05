@@ -1,7 +1,8 @@
 # Scam Destroyer
 
+# I AM NOT RESPONSIBLE FOR THE MISUSE OF THIS SCRIPT.
+
 General purpose python script to annihilate scammers.
-Please do not use for unlawful purposes.
 
 # How To Use
 
