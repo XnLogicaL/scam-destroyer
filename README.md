@@ -6,4 +6,7 @@ General purpose python script to annihilate scammers by spamming fake login requ
 
 # How To Use
 Adjust the url and the request data to fit the site you are trying to destroy.
-call ```main.start(thread_count)```, make sure that thread count isn't too much
+``` 
+  main(thread_count)
+```,
+make sure that thread count isn't too much
